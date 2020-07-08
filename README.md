@@ -1,8 +1,8 @@
 ## Udemy - Desenvolvimento Android Completo 2020
-## App - Álcool ou Gasolina
+## App - Netflix
 
-Nesse projeto iremos aprender conceitos básicos, como: Recuperar valores em caixas de textos, ações de botões
+Nesse projeto iremos aprender alguns conceitos de layout
 
 ### Imagem do App
 
-![Imagem APP](https://github.com/Jardier/alcool-gasolina/blob/master/app/src/main/res/drawable/imagem_app.PNG)
+![Imagem APP](https://github.com/Jardier/netflix/blob/master/app/src/main/res/drawable/imagem_app.PNG)
